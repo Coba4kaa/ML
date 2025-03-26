@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/audio-Coba4kaa" vcs="" />
+    <mapping directory="$PROJECT_DIR$/image-Coba4kaa" vcs="" />
+    <mapping directory="$PROJECT_DIR$/parser-Coba4kaa" vcs="" />
+    <mapping directory="$PROJECT_DIR$/supervised-Coba4kaa" vcs="" />
+    <mapping directory="$PROJECT_DIR$/text-Coba4kaa" vcs="" />
+  </component>
+</project>
